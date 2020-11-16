@@ -14,4 +14,4 @@ We will cover the following techniques:
 
 Links:
 - Post on Medium
-- Notebook on Kaggle
+- Notebook on [Kaggle](https://www.kaggle.com/danielesalerno/handle-missing-values-in-categorical-features)
