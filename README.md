@@ -13,5 +13,6 @@ We will cover the following techniques:
 
 
 Links:
-- Post on Medium
+- Post on [Medium](https://daniele-salerno.medium.com/handle-missing-values-in-categorical-features-b7c5b073dda2)
+- Published thanks to [jupyter_to_medium](https://github.com/dexplo/jupyter_to_medium)
 - Notebook on [Kaggle](https://www.kaggle.com/danielesalerno/handle-missing-values-in-categorical-features)
